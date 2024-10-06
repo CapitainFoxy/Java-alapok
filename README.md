@@ -28,14 +28,14 @@ A fejlesztéshez (én személy szerint nagyon ajánlom) szükséged lesz egy int
 - [Eclipse](https://www.eclipse.org/)
 - [NetBeans](https://netbeans.apache.org/)
 
-# Hello World
+# Hello Világ
 
 Valahogy mindig az első dolog, amikor egy nagy projektbe vág egy programozó, az a `Hello World`. Ezért úgy gondoltam, hogy innen sem maradhat ki! 
 
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello Világ");          
     }
 }
 ```
