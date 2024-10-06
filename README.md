@@ -239,10 +239,15 @@ Ide kerestem neked további oldalakat, amik segíthetnek neked.
 [Oracle](https://docs.oracle.com/javase/tutorial/)
 [Coursera](https://www.coursera.org/specializations/java-programming)
 
+Itt tovább fejlesztheted eddig megszereztt tudásodat! 
+
+
+
+###### Kapcsolat
+
+Lehet hogy amit most olvastál, az full kínai volt számodra. Ha bármit nem értessz, vagy elakadtál, akkor írj nekem egy [E-Mailt](jaokoi27@gmail.com)
 
 
 
 
 
-
-[
