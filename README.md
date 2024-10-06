@@ -166,7 +166,7 @@ public class Main {
 ```
 
 
-***Objektumok**
+**Objektumok**
 
 Az objektumok az osztály példányai. Minden egyes objektum különálló, és saját állapotát (attribútumait) és viselkedését (metódusait) tartalmazza. Az objektumok segítségével interakcióba léphetünk a program különböző részeivel, és különböző adatokkal dolgozhatunk.
 
@@ -179,7 +179,7 @@ Ebben a példában létrehoztunk egy myAuto nevű objektumot az Auto osztálybó
 
 
 
-***Öröklődés**
+**Öröklődés**
 
 Az OOP egyik kulcsfontosságú jellemzője az öröklődés, amely lehetővé teszi, hogy egy osztály örökölje egy másik osztály attribútumait és metódusait. Ez segít a kód újrafelhasználásában és a hierarchikus struktúrák létrehozásában.
 
