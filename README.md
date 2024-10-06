@@ -242,6 +242,94 @@ myAllat2.hangotAd();  // Kiírja: "A macska nyávog."
 Az osztályok és objektumok fogalmai fontos játszanak a Java-ban. Az osztályok mint sablonok definiálják az objektumok szerkezetét és viselkedését, ehez képest az objektumok az osztályok példányai, amelyek valós adatokkal és funkciókkal rendelkeznek. Az OOP alapelvei, mint az öröklődés és a polimorfizmus, lehetővé teszik a kód újrafelhasználását, a modularitást, és segítenek a bonyolultabb rendszerek megírásában.
 
 
+# Első programunk
+
+Gondoltam, hogy itt a végére készítek nektek egy egyzerű programot és elmagyarázom, hogy mit miért így írtam benne. 
+A programunk egyszerű összeadásokat tud végezni.
+
+```java
+import java.util.Scanner;
+
+public class OsszeadoKalkulator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Kérlek, add meg az első számot: ");
+        double szam1 = scanner.nextDouble();
+
+        System.out.print("Kérlek, add meg a második számot: ");
+        double szam2 = scanner.nextDouble();
+
+        double osszeg = szam1 + szam2;
+
+        System.out.println("A két szám összege: " + osszeg);
+
+        scanner.close();
+    }
+}
+```
+
+**Elemzés**
+
+1. Importálás
+   ```java
+   import java.util.Scanner;
+   ```
+   A Scanner osztály importálására van szükség, hogy a program képes legyen beolvasni a felhasználó bemenetét a konzolról. Ez a Java standard könyvtárának része, amely segíti a felhasználói interakciót.
+
+2. Osztály definíció
+   ```java
+   public class OsszeadoKalkulator {
+   ```
+   Minden Java program egy vagy több osztályban van definiálva. Az osztály neve (OsszeadoKalkulator) leírja a program funkcióját. Az `public` kulcsszó jelzi, hogy az osztály bárhonnan elérhető.
+
+3. Fő metódus
+   ```java
+   public static void main(String[] args) {
+   ```
+   A `main` metódus a Java program belépési pontja. Amikor a programot futtatják, a JVM (Java Virtuális Gép) itt kezdi el a végrehajtást. A `String[] args` lehetővé teszi a program számára, hogy parancssori argumentumokat fogadjon.
+
+4. Scanner példányosítása
+   ```java
+   Scanner scanner = new Scanner(System.in);
+   ```
+   Létrehozunk egy `Scanner` objektumot (scanner), amely lehetővé teszi a felhasználó bemenetének beolvasását a konzolról. A `System.in` paraméter a standard bemenetre utal, amely a billentyűzet.
+
+5. Felhasználói Bemenet Kérdezése
+   ```java
+   System.out.print("Kérlek, add meg az első számot: ");
+double szam1 = scanner.nextDouble();
+   ```
+   A `System.out.print` metódus kiír egy üzenetet a konzolra, amely kéri a felhasználót az első szám megadására.A `scanner.nextDouble()` metódus beolvassa a felhasználó által megadott számot, és elmenti a `szam1` változóba.
+
+6. Második szám beolvasása
+   ```java
+   System.out.print("Kérlek, add meg a második számot: ");
+double szam2 = scanner.nextDouble();
+   ```
+   Ugyanúgy, mint az előző lépésben, itt a program kérdezi a felhasználót a második szám megadására, és ezt a `szam2` változóba menti.
+
+7. Összeg számítása
+   ```java
+   double osszeg = szam1 + szam2;
+   ```
+   Itt a program kiszámítja a két szám összegét, és elmenti az `osszeg` változóba. A `double` típus használata lehetővé teszi a lebegőpontos számok kezelését.
+
+8. Eredmény kiírása
+   ```java
+   System.out.println("A két szám összege: " + osszeg);
+   ```
+   A program kiírja a felhasználónak az összeg értékét a konzolra. Az `+` operátor itt a sztringek és a számok összefűzésére szolgál.
+
+9. Program bezárása
+    ```java
+    scanner.close();
+    ```
+    A `scanner.close()` metódus hívása bezárja a `Scanner` objektumot, ezzel felszabadítva a rendszer erőforrásait. Ez egy jó példa arra, hogy elkerüljük a memória szivárgást.
+
+    
+      
+
 # Következő Lépesek
 
 Próbáltam ennek a résznek valami hangzatos nevet kitalálni, de ezt sikerült. ;)
@@ -252,11 +340,14 @@ Ide kerestem neked további oldalakat, amik segíthetnek neked.
 
 Itt tovább fejlesztheted eddig megszereztt tudásodat! 
 
+# Utószó
 
+Ez a kis dokumentáció nem tartalmau minden információt a `Java` nyelvről. Én ezzel egy kis ízelítőt szerettem volna adni és ha további tudásra vágysz, akkod ajánlom a fenti linekeket! 
+Rengeteg munkám volt ebben, ezért kérlek, ha egy kicsit is tetszett vagy tanultál belőle valamit, akkor tegyél egy csillagot erre a repóra! Köszi! ;)
 
 # Kapcsolat
 
-Lehet hogy amit most olvastál, az full kínai volt számodra. Ha bármit nem értessz, vagy elakadtál, akkor írj nekem egy [E-Mailt](jaokoi27@gmail.com)
+Lehet hogy amit most olvastál, az full kínai volt számodra. Ha bármit nem értessz, vagy elakadtál, akkor írj nekem egy [E-Mailt](info-reaperbot@gmail.com).
 
 
 
