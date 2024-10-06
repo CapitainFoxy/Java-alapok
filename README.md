@@ -22,7 +22,7 @@ A Java Development Kit (JDK) telepítése szükséges a Java programok futtatás
 
 ### 2. IDE kiválasztása
 
-A fejlesztéshez (én személy szerint nagyon ajánlom) szükséged lesz egy integrált fejlesztői környezetre (IDE). Ajánlott IDE-k:
+A fejlesztéshez (én személy szerint nagyon ajánlom az Eclipset én magam is azt használom már nagyon régóta) szükséged lesz egy integrált fejlesztői környezetre (IDE). Ajánlott IDE-k:
 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Eclipse](https://www.eclipse.org/)
