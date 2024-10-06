@@ -72,6 +72,7 @@ Java-ban többféle operátor található. Ezek arra szolgálnak, hogy a matemat
 
 **Aritmetikai operátorok**: +, -, *, /, %
 **Összehasonlító operátorok**: ==, !=, >, <, >=, <=
+
 **Logikai operátorok**: &&, ||, !
 
 
