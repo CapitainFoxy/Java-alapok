@@ -8,9 +8,8 @@ Szia! Ez a dokumentáció célja, hogy segítsen a Java programozási nyelv alap
 
 1. [Környezet Beállítása](#környezet-beállítása)
 2. [Java Alapfogalmak](#java-alapfogalmak)
-3. [Alapvető Nyelvi Szerkezet](#alapvető-nyelvi-szerkezet)
-4. [Objektumorientált Programozás](#objektumorientált-programozás)
-5. [Következő Lépések](#következő-lépések)
+3. [Objektumorientált Programozás](#objektumorientált-programozás)
+4. [Következő Lépések](#következő-lépések)
 
 ## Környezet Beállítása
 
@@ -28,6 +27,18 @@ A fejlesztéshez (én személy szerint nagyon ajánlom) szükséged lesz egy int
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Eclipse](https://www.eclipse.org/)
 - [NetBeans](https://netbeans.apache.org/)
+
+# Hello World
+
+Valahogy mindig az első dolog, amikor egy nagy projektbe vág valaki, az a `Hello World`. Ezért úgy gondoltam, hogy innen sem maradhat ki! 
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
 
 # Java Alapfogalmak
 
