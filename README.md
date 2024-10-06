@@ -30,7 +30,7 @@ A fejlesztéshez (én személy szerint nagyon ajánlom) szükséged lesz egy int
 
 # Hello World
 
-Valahogy mindig az első dolog, amikor egy nagy projektbe vág valaki, az a `Hello World`. Ezért úgy gondoltam, hogy innen sem maradhat ki! 
+Valahogy mindig az első dolog, amikor egy nagy projektbe vág egy programozó, az a `Hello World`. Ezért úgy gondoltam, hogy innen sem maradhat ki! 
 
 ```java
 public class HelloWorld {
