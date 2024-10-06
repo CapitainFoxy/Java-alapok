@@ -231,7 +231,7 @@ myAllat2.hangotAd();  // Kiírja: "A macska nyávog."
 Az osztályok és objektumok fogalmai fontos játszanak a Java-ban. Az osztályok mint sablonok definiálják az objektumok szerkezetét és viselkedését, ehez képest az objektumok az osztályok példányai, amelyek valós adatokkal és funkciókkal rendelkeznek. Az OOP alapelvei, mint az öröklődés és a polimorfizmus, lehetővé teszik a kód újrafelhasználását, a modularitást, és segítenek a bonyolultabb rendszerek megírásában.
 
 
-# Következő lépesek
+# Következő Lépesek
 
 Próbáltam ennek a résznek valami hangzatos nevet kitalálni, de ezt sikerült. ;)
 Ide kerestem neked további oldalakat, amik segíthetnek neked.
