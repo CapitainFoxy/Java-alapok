@@ -355,4 +355,9 @@ Lehet hogy amit most olvastál, az full kínai volt számodra. Ha bármit nem é
 
 
 
+_________________
+CapitainFoxy
+2024. október 26.
+
+
 
