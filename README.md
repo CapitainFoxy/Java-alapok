@@ -331,7 +331,9 @@ double szam2 = scanner.nextDouble();
     A `scanner.close()` metódus hívása bezárja a `Scanner` objektumot, ezzel felszabadítva a rendszer erőforrásait. Ez egy jó példa arra, hogy elkerüljük a memória szivárgást.
 
     
-      
+# Feladat
+
+(Ez nyilván opcionális) Készíts egy hasonló programot, mint a fenti, csak ez kivonni tudjon, ne összeadni.
 
 # Következő Lépesek
 
