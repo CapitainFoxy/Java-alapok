@@ -71,6 +71,7 @@ boolean igaz = true;
 Java-ban többféle operátor található. Ezek arra szolgálnak, hogy a matematikai műveleteket el tudjuk végezni.
 
 **Aritmetikai operátorok**: +, -, *, /, %
+
 **Összehasonlító operátorok**: ==, !=, >, <, >=, <=
 
 **Logikai operátorok**: &&, ||, !
