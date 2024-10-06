@@ -31,7 +31,7 @@ A fejlesztéshez (én személy szerint nagyon ajánlom) szükséged lesz egy int
 
 # Java Alapfogalmak
 
-# 1. Változók
+ ## 1. Változók
 
 A változók tárolják az adatokat a program futása során. Java-ban többféle adattípus létezik:
 
@@ -51,7 +51,7 @@ String szoveg = "Helló, világ!";
 boolean igaz = true;
 ```
 
-#### Operátorok
+ ## Operátorok
 
 
 Java-ban többféle operátor található. Ezek arra szolgálnak, hogy a matematikai műveleteket el tudjuk végezni.
@@ -61,7 +61,7 @@ Java-ban többféle operátor található. Ezek arra szolgálnak, hogy a matemat
 **Logikai operátorok**: &&, ||, !
 
 
-##### Feltételes utasítások
+ ## Feltételes utasítások
 
 A feltételes utasítások segítségével a programokban döntéseket hozhatunk a program futása során. A Java-ban a leggyakrabban használt feltételes utasítások a `if`, `else if`, `else` és a `switch` szerkezetek. 
 Mi most csak az `if-else`-el fogunk foglalkozni.
@@ -77,7 +77,7 @@ if (szam > 5) {
 Mint láthatod a fenti példában, az `if` után meg kell adni a kondíciót, hogy mit történjen `ha` és az `else` után pedig, hogy mit történjen, `ha nem`.
 
 
-###### Ciklusok
+ ## Ciklusok
 
 A ciklusok lehetővé teszik, hogy ismételt műveleteket végezzünk. Kétféle módon tudjuk használni.
 Az első a `for ciklus`
@@ -102,7 +102,7 @@ Ha kezdő vagy, én mindenképpen a `while` ciklust javaslom, sokkal átláthat�
 
 
 
-###### Objektumorientált Programozás
+# Objektumorientált Programozás
 
 A Java az objektumorientált programozás paradigmájára épül, amely a következő alapelveket tartalmazza:
 
