@@ -2,7 +2,7 @@
 
 ## Bevezetés
 
-Szia! Ennek a dokumentációnak a  célja, hogy segítsen a Java programozási nyelv alapjainak megértésében. Remélem már van tapasztalatod programozás terén, de ha nem, akkor nek baj, csak lehet, hogy kicsit nehezebb lesz megértened. A Java egy rendkívül népszerű, objektumorientált programozási nyelv, amelyet széleskörűen használnak a szoftverfejlesztésben, webfejlesztésben, mobilalkalmazások fejlesztésében és még sok más területen.
+Szia! Ennek a dokumentációnak a  célja, hogy segítsen a Java programozási nyelv alapjainak megértésében. Remélem már van tapasztalatod programozás terén, de ha nem, akkor nem baj, csak lehet, hogy kicsit nehezebb lesz megértened. A Java egy rendkívül népszerű, objektumorientált programozási nyelv, amelyet széleskörűen használnak a szoftverfejlesztésben, webfejlesztésben, mobilalkalmazások fejlesztésében és még sok más területen.
 
 ## Tartalomjegyzék
 
