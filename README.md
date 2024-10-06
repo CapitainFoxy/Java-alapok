@@ -12,7 +12,7 @@ Szia! Ez a dokumentáció célja, hogy segítsen a Java programozási nyelv alap
 4. [Objektumorientált Programozás](#objektumorientált-programozás)
 5. [Első programunk](#első-programunk)
 6. [Következő Lépések](#következő-lépések)
-7. [Utószó](#utószó)
+7. [Végszó](#utószó)
 
 ## Környezet Beállítása
 
