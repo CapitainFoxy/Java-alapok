@@ -29,9 +29,9 @@ A fejlesztéshez (én személy szerint nagyon ajánlom) szükséged lesz egy int
 - [Eclipse](https://www.eclipse.org/)
 - [NetBeans](https://netbeans.apache.org/)
 
-## Java Alapfogalmak
+# Java Alapfogalmak
 
-### 1. Változók
+# 1. Változók
 
 A változók tárolják az adatokat a program futása során. Java-ban többféle adattípus létezik:
 
