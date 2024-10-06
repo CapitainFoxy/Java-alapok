@@ -9,7 +9,8 @@ Szia! Ez a dokumentáció célja, hogy segítsen a Java programozási nyelv alap
 1. [Környezet Beállítása](#környezet-beállítása)
 2. [Java Alapfogalmak](#java-alapfogalmak)
 3. [Objektumorientált Programozás](#objektumorientált-programozás)
-4. [Következő Lépések](#következő-lépések)
+4. [Első programunk](#első-programunk)
+5. [Következő Lépések](#következő-lépések)
 
 ## Környezet Beállítása
 
